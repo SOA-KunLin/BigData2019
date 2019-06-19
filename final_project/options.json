@@ -1,0 +1,10 @@
+{
+    "default_runtime_attributes": {
+        "docker": "<hub-user>/<repo-name>",
+        "docker_user": "$EUID",
+        "docker_volume": "<path/to/this/repo>/data:/data",
+		"continueOnReturnCode": true,
+        "preemptible": 3,
+        "maxRetries": 3
+    }
+}

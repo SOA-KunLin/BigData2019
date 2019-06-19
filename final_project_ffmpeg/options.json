@@ -1,0 +1,8 @@
+{
+    "default_runtime_attributes": {
+        "docker": "<hub-user>/<repo-name>",
+        "continueOnReturnCode": true,
+        "preemptible": 3,
+		"maxRetries": 3
+    }
+}

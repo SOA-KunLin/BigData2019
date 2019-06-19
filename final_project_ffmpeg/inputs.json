@@ -1,0 +1,6 @@
+{
+  "myWorkflow.water_marker": "File",
+  "myWorkflow.audio": "File",
+  "myWorkflow.images": "Array[File]"
+}
+
